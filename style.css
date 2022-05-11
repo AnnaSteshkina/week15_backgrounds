@@ -1,0 +1,16 @@
+body{
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.select{
+    width: 40%;
+    height: 50px;
+    padding-left: 5px;
+
+    font-size: 1rem;
+
+    border: 1px solid #000000;
+    border-radius: 5px;
+}
